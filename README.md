@@ -1,5 +1,9 @@
+[![MasterHead](https://github.com/MudasirNaeem1/MudasirNaeem1/blob/main/image-1920x555.jpg.png?raw=true)](https://github.com/MudasirNaeem1)
+
 <h1 align="center">Hi, I'm Mudasir Naeem</h1>
 <h3 align="center">A passionate "AI Engineer" with expertise in Machine Learning and Deep Learning.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*df6ad2ogSzGX9YIiX4dT_A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasirnaeem1&label=Profile%20views&color=0e75b6&style=flat" alt="mudasirnaeem1" /> </p>
 
