@@ -17,13 +17,13 @@
 
 - You can view my Resume: [https://drive.google.com/drive/folders/1-KJLFdcEPIo2k2AQss25xx7PPVvvV5an?usp=sharing](https://drive.google.com/drive/folders/1-KJLFdcEPIo2k2AQss25xx7PPVvvV5an?usp=sharing)
 
-<h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:</h3>
+<h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mudasir naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudasir naeem" height="30" width="40" /></a>
 <a href="https://fb.com/mudasir naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mudasir naeem" height="30" width="40" /></a>
 <a href="https://instagram.com/mudasir naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudasir naeem" height="30" width="40" /></a>
 </p>
-<h3 align="left">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h3>
+<h3 align="left">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬</h3>
 
 <h4 align="left">Programming Languages:</h4>
 <table>
@@ -101,7 +101,9 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br/>Linux</td>
   </tr>
 </table>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudasirnaeem1&show_icons=true&locale=en&layout=compact" alt="mudasirnaeem1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirnaeem1&" alt="mudasirnaeem1" /></p>
+
+
+
