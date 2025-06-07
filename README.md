@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/MudasirNaeem1/MudasirNaeem1/blob/main/image-1920x500.jpg%20(1).png?raw=true)](https://github.com/MudasirNaeem1)
 
-<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐌𝐮𝐝𝐚𝐬𝐢𝐫 𝐍𝐚𝐞𝐞𝐦</h1>
-<h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 "𝙰𝙸 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛" 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎 𝚒𝚗 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝙳𝚎𝚎𝚙 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐.</h3>
+<h1 align="center">𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬 👋, 𝐈'𝐦 𝐌𝐮𝐝𝐚𝐬𝐢𝐫 𝐍𝐚𝐞𝐞𝐦</h1>
+<h3 align="center">A passionate "AI Engineer" with expertise in Machine Learning and Deep Learning.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*df6ad2ogSzGX9YIiX4dT_A.gif">
 
@@ -23,8 +23,9 @@
 <a href="https://fb.com/mudasir naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mudasir naeem" height="30" width="40" /></a>
 <a href="https://instagram.com/mudasir naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudasir naeem" height="30" width="40" /></a>
 </p>
+<h3 align="left">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h3>
 
-<h3 align="left">𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h3>
+<h4 align="left">Programming Languages:</h4>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br/>C</td>
@@ -37,7 +38,7 @@
   </tr>
 </table>
 
-<h3 align="left">𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁</h3>
+<h4 align="left">Web Development:</h4>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>HTML5</td>
@@ -50,7 +51,7 @@
   </tr>
 </table>
 
-<h3 align="left">𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</h3>
+<h4 align="left">Databases:</h4>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>MySQL</td>
@@ -61,7 +62,7 @@
   </tr>
 </table>
 
-<h3 align="left">𝗔𝗜 / 𝗠𝗟 & 𝗗𝗮𝘁𝗮 𝗧𝗼𝗼𝗹𝘀</h3>
+<h4 align="left">AI/ ML and Data Tools:</h4>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
@@ -76,7 +77,7 @@
   </tr>
 </table>
 
-<h3 align="left">𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀</h3>
+<h4 align="left">Frameworks & Platforms</h4>
 <table>
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/><br/>Django</td>
@@ -84,7 +85,7 @@
   </tr>
 </table>
 
-<h3 align="left">𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗘𝗱𝗶𝘁𝗶𝗻𝗴</h3>
+<h4 align="left">Designing & Editing Tools:</h4>
 <table>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40"/><br/>Canva</td>
@@ -93,7 +94,7 @@
   </tr>
 </table>
 
-<h3 align="left">𝗢𝗦 & 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹</h3>
+<h4 align="left">OS & Version Controls:</h4>
 <table>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</td>
