@@ -3,9 +3,18 @@
 <h1 align="center">𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬 👋, 𝐈'𝐦 𝐌𝐮𝐝𝐚𝐬𝐢𝐫 𝐍𝐚𝐞𝐞𝐦</h1>
 <h3 align="center">A passionate "AI Engineer" with expertise in Machine Learning and Deep Learning.</h3>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-Enthusiast-blue?style=for-the-badge" alt="AI Enthusiast"/>
+  <img src="https://img.shields.io/badge/NLP-Specialist-pink?style=for-the-badge" alt="NLP Specialist"/>
+  <img src="https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data-Science-orange?style=for-the-badge" alt="Data Science"/>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*df6ad2ogSzGX9YIiX4dT_A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasirnaeem1&label=Profile%20views&color=0e75b6&style=flat" alt="mudasirnaeem1" /> </p>
+
+- I’m passionate about AI and Machine Learning. I enjoy developing intelligent systems capable of understanding, learning, and adapting. My expertise includes NLP, Vector Embeddings, Creating Prediction Models and Recommendation Systems, where I focus on creating solutions that connect human language with machine comprehension.
 
 - I’m currently studying at **FAST-NUCES Karachi Campus**
 
@@ -105,5 +114,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirnaeem1&" alt="mudasirnaeem1" /></p>
 
+<h3 align="left">𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐇𝐢𝐬𝐭𝐨𝐫𝐲/ 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧</h3>
 
-
+- **B.S. in Artificial Intelligence** - FAST National University, Karachi (2022-2026)
+  - Focused on Machine Learning, Deep Learning, and AI system development.
+- **Intermediate in Engineering** - TCF College Qayyumabad (2020-2022)
+  - Graduated with 79% (strongfoundation in Physics and Mathematics).
+- **Matriculation in Computer Science** - TCF School (2018-2020)
+  - Secured an A grade with distinction in Computer Science.
