@@ -34,7 +34,6 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/><br/>Dart</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/mrkor/irvine32/master/irvine32_logo.svg" width="40" height="40"/><br/>Assembly (Irvine32)</td>
   </tr>
 </table>
 
@@ -65,13 +64,23 @@
 <h3 align="left">𝗔𝗜 / 𝗠𝗟 & 𝗗𝗮𝘁𝗮 𝗧𝗼𝗼𝗹𝘀</h3>
 <table>
   <tr>
-    <td align="center"><img src="https://numpy.org/images/logo.svg" width="40" height="40"/><br/>NumPy</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
+    <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/><br/>Seaborn</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/><br/>Scikit-learn</td>
     <td align="center"><img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/><br/>Matplotlib</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Natural_language_processing_logo.png" width="40" height="40"/><br/>NLP</td>
-    <td align="center"><img src="https://jupyter.org/assets/main-logo.svg" width="40" height="40"/><br/>Jupyter Notebook</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Anaconda_Logo.png" width="40" height="40"/><br/>Anaconda</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/><br/>TensorFlow</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/><br/>PyTorch</td>
     <td align="center"><img src="https://keras.io/img/logo.png" width="40" height="40"/><br/>Keras</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Kaggle_logo.svg" width="40" height="40"/><br/>Kaggle</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/><br/>OpenCV</td>
+    <td align="center"><img src="https://numpy.org/images/logo.svg" width="40" height="40"/><br/>NumPy</td>
+  </tr>
+</table>
+
+<h3 align="left">𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀</h3>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/><br/>Django</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/><br/>Flutter</td>
   </tr>
 </table>
 
@@ -87,9 +96,7 @@
 <h3 align="left">𝗢𝗦 & 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹</h3>
 <table>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" width="40" height="40"/><br/>Windows</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mac_OS_logo.svg" width="40" height="40"/><br/>macOS</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br/>Linux</td>
   </tr>
 </table>
