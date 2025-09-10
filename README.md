@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/MudasirNaeem1/MudasirNaeem1/blob/main/Image1.png?raw=true)](https://github.com/MudasirNaeem1)
 
-<h1 align="center">𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬 👋, 𝐈'𝐦 𝐌𝐮𝐝𝐚𝐬𝐢𝐫 𝐍𝐚𝐞𝐞𝐦</h1>
+<h1 align="center">Greetings👋, I'm Mudasir Naeem</h1>
 <h3 align="center">A passionate "AI Engineer" with expertise in Machine Learning and Deep Learning.</h3>
 
 <div align="center">
