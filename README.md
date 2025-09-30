@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MudasirNaeem1/MudasirNaeem1/blob/main/Image1.png?raw=true)](https://github.com/MudasirNaeem1)
+[![MasterHead](https://github.com/MudasirNaeem1/MudasirNaeem1/blob/main/Dark%20Gray%20Simple%20Business%20Consultant%20Linkedin%20Banner_20250930_191524_0000.png?raw=true)](https://github.com/MudasirNaeem1)
 
 <h1 align="center">Greetings👋, I'm Mudasir Naeem</h1>
 <h3 align="center">A passionate "AI Engineer" with expertise in Machine Learning and Deep Learning.</h3>
