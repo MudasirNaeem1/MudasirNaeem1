@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/NLP-Specialist-pink?style=for-the-badge" alt="NLP Specialist"/>
   <img src="https://img.shields.io/badge/Agentic-AI-red?style=for-the-badge" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/AI-Automation-brown?style=for-the-badge" alt="AI Automation"/>
-  <img src="https://img.shields.io/badge/LLMS-Expert-purple?style=for-the-badge" alt="LLMS Expert"/>
   <img src="https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Data-Science-orange?style=for-the-badge" alt="Data Science"/>
 </div>
