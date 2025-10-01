@@ -17,13 +17,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasirnaeem1&label=Profile%20views&color=0e75b6&style=flat" alt="mudasirnaeem1" /> </p>
 
-- I’m passionate about AI and Machine Learning. I enjoy developing intelligent systems capable of understanding, learning, and adapting. My expertise includes NLP, Vector Embeddings, Creating Prediction Models and Recommendation Systems, where I focus on creating solutions that connect human language with machine comprehension.
+- 💡 I’m passionate about Artificial Intelligence, Machine Learning, Generative AI, and Intelligent Agent-based Systems.
 
-- I’m currently studying at **FAST-NUCES Karachi Campus**
+- 📚 I enjoy developing systems capable of understanding, learning, reasoning, and adapting. 
+
+- 🎓 I’m currently studying BS in AI at **FAST-NUCES Karachi Campus**
+
+- 🔎 **My expertise spans across**
+Natural Language Processing (NLP),
+Vector Embeddings & Semantic Search,
+Generative AI & Agentic AI,
+Prediction & Forecasting Models,
+Recommendation Systems,
+RPA (Robotic Process Automation),
+AI-driven Data Science Solutions.
+
+- 🌍 Professionally, I have completed a 2-month onsite internship as an **RPA and Data/AI Intern at ArcanaInfo Pvt Ltd**, along with multiple remote internships in **AI, Web Development and Data Science** with **EntraCloud**, **Nexium**, **NextGen Learner**,  **DevelopersHub Co** etc. These experiences allowed me to work on practical AI solutions and strengthen my expertise in advanced computing.
+
+- 📢  I also serve as a **TCF Alumni Ambassador** and a member of the Pathways Department 🌱, as well as a **Campus Ambassador at AIESEC** 🌍. In addition, I successfully completed the 1-month **Climate Action & SRHR Youth Advocacy Project organized by Y-PEER Asia Pacific & Pakistan and ISYD**.
 
 - How to reach me? [mudasirnaeem000@gmail.com](mudasirnaeem000@gmail.com)
-
-- I am currently pursuing a Bachelor's degree in **Artificial Intelligence (AI)**
 
 - Founder of "Codex Computing Co." A Pakistan-based startup focused on AI and advanced computing solutions. **https://www.linkedin.com/company/codexcomputingco/**
 
